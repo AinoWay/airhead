@@ -13,6 +13,9 @@ xcshareddata/
 DerivedData/
 xcuserdata/
 
+# Ignore contents.xcworkspacedata
+contents.xcworkspacedata
+
 ## Obj-C/Swift specific
 *.hmap
 
